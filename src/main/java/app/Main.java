@@ -52,7 +52,7 @@ public class Main {
                         Pattern.printNumberNine();
                         break;
                 }
-                System.out.println();  // Print a blank line between numbers for better readability
+                System.out.println();
             }
         } else {
             System.out.println("Invalid input. Please enter only digits.");
